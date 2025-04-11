@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# IL MIO NOME È MARTINA!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ciao! Questo è il mio sito web per documentare i miei lavori nel laboratorio di NTA.
 
-## Commands
+## NELLA SEZIONE "ABOUT" TROVERAI:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* La mia introduzione
+* I miei lavori finiti.
